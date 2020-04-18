@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "we-read"
+    }
+  },
+  "defaultProject": "we-read",
+  "cli": {
+    "analytics": false
+  }
 }
